@@ -54,6 +54,7 @@ I enjoy working across the stack, learning new technologies, and turning ideas i
 
 ### 🔗 Connect
 
+- [Email](message2chi @ gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/zero-one-chi)
 - [TheWeatherDB](https://www.theweatherdb.com)
 - [GitHub Projects](https://github.com/gitgamut)
