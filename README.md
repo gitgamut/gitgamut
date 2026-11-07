@@ -8,9 +8,9 @@ I'm passionate about **making user workflows simple and responsive**. I enjoy ta
 
 I've worked on enterprise software across scientific computing, cybersecurity, and healthcare technology.
 
-- **MathWorks** — Developed features for MATLAB and Simulink testing products. Improved application performance by 80% on large workloads. Built testing, observability, and reporting workflows.
+- **MathWorks Inc.** — Developed features for MATLAB and Simulink testing products. Improved application performance by 80% on large workloads. Built testing, observability, and reporting workflows.
 - **TrendAI** — Improved worst-case response time by 20× in a distributed system. Built reliability improvements for a SaaS platform serving 10,000+ enterprise customers.
-- **Arterys** — Developed backend microservices and REST APIs for cloud-based medical imaging software.
+- **Arterys Inc.(acquired by TempusAI)** — Developed backend microservices and REST APIs for cloud-based medical imaging software.
 
 ### 🚀 Projects
 
