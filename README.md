@@ -50,7 +50,7 @@ An open-source project that uses generative AI to offer each user an encouraging
 ### 🌱 What Interests Me
 
 I'm particularly interested in building scalable software products, developer tools, AI-powered applications, and practical open-source projects.
-I enjoy working across the stack, learning new technologies, and turning ideas into useful products.
+I enjoy working across the stack, learning new technologies, and turning ideas into products users love.
 
 ### 🔗 Connect
 
